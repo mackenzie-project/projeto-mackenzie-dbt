@@ -122,4 +122,4 @@ Abaixo segue o desenho da arquitetura.
 
 # Dataviz
 
-![Dashboard]("Colocar imagem aqui")
+![Dashboard](./image/dashboard.jpeg)
